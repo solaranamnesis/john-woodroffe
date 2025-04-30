@@ -32,7 +32,7 @@ German - PDF
 
 ## Śakti and Śākta.
 
-English - Plain Text  
+[English - Plain Text (wisdomlib.org)](https://www.wisdomlib.org/hinduism/book/shakti-and-shakta)  
 English - PDF | Computer Modern | Coelacanth | Atkinson | Alegreya | Auriocus | Kerkis | Artemisia | Custom01 | Custom02  
 German - Plain Text  
 German - PDF  
