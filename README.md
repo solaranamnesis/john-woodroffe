@@ -11,7 +11,7 @@ German - PDF
 
 ## Hymns to the Goddess.
 
-English - Plain Text  
+[English - Plain Text (sacred-texts.com)](https://sacred-texts.com/tantra/htg/index.htm)  
 English - PDF | Computer Modern | Coelacanth | Atkinson | Alegreya | Auriocus | Kerkis | Artemisia | Custom01 | Custom02  
 French - Plain Text  
 French - PDF  
