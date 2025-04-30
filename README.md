@@ -5,7 +5,7 @@ Public Domain Works of John Woodroffe (Arthur Avalon) (1865-1936).
 ## The Garland of Letters.
 
 English - Plain Text  
-English - PDF | Computer Modern | Coelacanth | Atkinson | Alegreya | Auriocus | Kerkis | Artemisia | Custom01 | Custom02  
+[English - PDF (Celephaïs Press)](https://www.scribd.com/doc/3009647/Woodroffe-The-Garland-of-Letters) | Computer Modern | Coelacanth | Atkinson | Alegreya | Auriocus | Kerkis | Artemisia | Custom01 | Custom02  
 German - Plain Text  
 German - PDF  
 
